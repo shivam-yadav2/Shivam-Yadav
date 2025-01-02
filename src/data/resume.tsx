@@ -103,7 +103,7 @@ export const DATA = {
       end: "2025",
     },
     {
-      school: "Be10X",
+      school: "Be10X Certification",
       href: "#",
       degree: "Easily Integrate AI tools in WorkFlow",
       logoUrl: "/10.webp",
