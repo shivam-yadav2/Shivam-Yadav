@@ -30,6 +30,13 @@ export const DATA = {
     email: "hello@example.com",
     tel: "+123456789",
     social: {
+      Call: {
+        name: "Call Now",
+        url: "tel:+916307603013",
+        icon: Icons.call,
+
+        navbar: true,
+      },
       GitHub: {
         name: "GitHub",
         url: "https://github.com/shivam-yadav2",
