@@ -107,8 +107,8 @@ export const DATA = {
       href: "#",
       degree: "Easily Integrate AI tools in WorkFlow",
       logoUrl: "/10.webp",
-      start: "2016",
-      end: "2021",
+      start: "",
+      end: "",
     },
     // {
     //   school: "Wilfrid Laurier University",
