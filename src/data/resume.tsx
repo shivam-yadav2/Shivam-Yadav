@@ -21,6 +21,8 @@ export const DATA = {
     "Laravel",
     "Mongo DB",
     "React Native",
+    "Harmony Animation",
+    "Stick Figure Animation"
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
